@@ -1,0 +1,1 @@
+mainN = facesInCorner[n];
